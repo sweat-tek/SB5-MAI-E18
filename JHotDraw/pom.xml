@@ -21,7 +21,7 @@
         -->
         <repository>
             <id>controleum.org</id>
-            <url>https://controleum.org/maven/</url>
+            <url>https://controleum.org/maven/release/</url>
         </repository>
     </repositories>
     <dependencies>
